@@ -115,7 +115,6 @@
   <project name="android_hardware_libhardware" path="hardware/libhardware" remote="cm" revision="cm-11.0"/>
   <project name="android_hardware_libhardware_legacy" path="hardware/libhardware_legacy" remote="cm" revision="cm-11.0"/>
   <project name="android_libcore" path="libcore" remote="cm" revision="cm-11.0"/>
-  <project name="android_system_core" path="system/core" remote="cm" revision="cm-11.0"/>
   <project name="platform/libnativehelper" path="libnativehelper"/>
   <project name="platform/ndk" path="ndk"/>
   <project name="platform_prebuilts_misc" path="prebuilts/misc" remote="b2g" revision="b2g-4.4.2_r1"/>
