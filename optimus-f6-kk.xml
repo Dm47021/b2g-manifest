@@ -5,7 +5,7 @@
   <default remote="caf" revision="refs/tags/android-4.4.2_r1" sync-j="8"/>
 
   <!-- DM47021 specific things. -->
-  <remote fetch="git@github.com:Dm47021/" name="dm47021"/>
+  <remote fetch="https://github.com/Dm47021/" name="dm47021"/>
   <project name="android_device_lge_f6mt" path="device/lge/f6mt" remote="dm47021" revision="kitkat"/>
   <project name="Android_kernel_f6mt_aosp" path="kernel/lge/f6mt" remote="dm47021" revision="aosp_kitkat"/>
 
